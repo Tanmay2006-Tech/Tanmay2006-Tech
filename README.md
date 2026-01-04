@@ -6,6 +6,18 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tanmay-tripathi-3a3139234/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:tanmaytripathi7525@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Tanmay2006-Tech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanmay2006-Tech&label=Profile%20views&color=555555&style=flat" />
 </p>
 
@@ -29,22 +41,33 @@
 
 ## 🚀 Featured Projects
 
-### 💰 BudgetBuddy
-**Expense & budget tracking web application**
+### 💰 BudgetBuddy  
+🔗 **Repo:** https://github.com/Tanmay2006-Tech/BudgetBuddy  
+🔗 **Live Demo:** https://budget-buddy-lilac-alpha.vercel.app 
+
+- Expense & budget tracking web application  
 - Built using JavaScript, HTML, and CSS  
-- Helps users manage and analyze daily expenses  
 - Focused on usability and clean UI  
 
-### 🤖 TacMind-AI
-**AI-powered Tic Tac Toe game**
-- Implements intelligent move logic  
-- Supports single-player and multiplayer modes  
-- Improved logical thinking and AI decision-making basics  
+---
 
-### 🎬 Cine-Pulse
-**Movie-centric web application (TypeScript)**
-- Designed with scalability and modular architecture  
-- Uses TypeScript for better reliability and structure  
+### 🤖 TacMind-AI  
+🔗 **Repo:** https://github.com/Tanmay2006-Tech/TacMind-AI 
+🔗 **Live Demo:** https://tac-mind-ai.vercel.app/
+
+- AI-powered Tic Tac Toe game  
+- Implements intelligent move selection logic  
+- Supports single-player and multiplayer modes  
+
+---
+
+### 🎬 Cine-Pulse  
+🔗 **Repo:** https://github.com/Tanmay2006-Tech/cine-pulse
+🔗 **Live Demo:** https://cine-pulse-delta.vercel.app/
+
+- Movie-centric web application built with TypeScript  
+- Modular and scalable architecture  
+- Focus on code reliability and structure  
 
 ---
 
