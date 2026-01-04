@@ -53,6 +53,7 @@
 
 ### 🤖 TacMind-AI  
 🔗 **Repo:** https://github.com/Tanmay2006-Tech/TacMind-AI 
+
 🔗 **Live Demo:** https://tac-mind-ai.vercel.app/
 
 - AI-powered Tic Tac Toe game  
@@ -62,7 +63,8 @@
 ---
 
 ### 🎬 Cine-Pulse  
-🔗 **Repo:** https://github.com/Tanmay2006-Tech/cine-pulse
+🔗 **Repo:** https://github.com/Tanmay2006-Tech/cine-pulse 
+
 🔗 **Live Demo:** https://cine-pulse-delta.vercel.app/
 
 - Movie-centric web application built with TypeScript  
