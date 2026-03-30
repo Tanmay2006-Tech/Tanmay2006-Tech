@@ -99,8 +99,8 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/tanmay-tripathi-3a3139234/ 
+- 📧 Email: TanmayTripathi7525@gmail.com
 
 ---
 
