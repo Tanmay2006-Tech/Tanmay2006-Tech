@@ -1,8 +1,14 @@
-# Hi 👋, I'm Tanmay Tripathi  
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
-🎓 B.Tech CSE @ Central University of Jammu  
-💻 Aspiring AI/ML & Full-Stack Developer  
-🚀 Building real-world projects & improving every day  
+<h1 align="center">Hi 👋, I'm Tanmay Tripathi</h1>
+
+<p align="center">
+🎓 B.Tech CSE @ Central University of Jammu <br>
+💻 Aspiring AI/ML & Full-Stack Developer <br>
+🚀 Building real-world projects & improving every day
+</p>
 
 ---
 
@@ -100,4 +106,6 @@
 
 ## ✨ Quote  
 
-> Build consistently. Improve continuously. 🚀  
+<p align="center">
+<i>Build consistently. Improve continuously. 🚀</i>
+</p>
