@@ -52,6 +52,7 @@
 
 ### 🏥 Upchaar  
 🔗 Repo: https://github.com/Tanmay2006-Tech/Upchaar  
+🔗 Live: https://upchaar-nine.vercel.app
 
 - Healthcare-focused web platform  
 - Designed for **better accessibility & user interaction**  
