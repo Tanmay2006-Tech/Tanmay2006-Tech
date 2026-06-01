@@ -100,7 +100,8 @@
 
 ### ⚡ EchoForge-AI
 
-🔗 Repo: https://github.com/Tanmay2006-Tech/EchoForge-AI
+🔗 Repo: https://github.com/Tanmay2006-Tech/EchoForge-AI 
+🌐https://echo-forge-ai.vercel.app
 
 * AI-powered generative platform built in JavaScript
 * Focused on intelligent content generation and AI-driven output workflows
