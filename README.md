@@ -38,55 +38,73 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects
 
-### 🔗 Connected (MVP)  
-🔗 Repo: https://github.com/Tanmay2006-Tech/connected-mvp  
+### 🧠 Cognify
 
-- Full-stack platform for managing **clubs, events & student interactions**  
-- Built using **React + TypeScript (Vite)**  
-- Structured architecture with **context providers & modular components**  
-- Focused on scalability & clean project structure  
+🔗 Repo: https://github.com/Tanmay2006-Tech/Cognify
+🌐 Live: https://cognify-liart-five.vercel.app
 
----
-
-### 🏥 Upchaar  
-🔗 Repo: https://github.com/Tanmay2006-Tech/Upchaar  
-🔗 Live: https://upchaar-nine.vercel.app
-
-- Healthcare-focused web platform  
-- Designed for **better accessibility & user interaction**  
-- Built with **TypeScript & modern frontend practices**  
+* Production-grade AI SaaS that turns student marks into explainable performance forecasts with confidence scores
+* Built a custom prediction engine with trend fitting, what-if simulator & factor-level explainability
+* Features a personalized weekly study planner, gamification system (XP, streaks, badges) & voice-enabled AI coach
+* Role-based mentor workspace with multi-format report exports (JSON, CSV, PDF)
+* **Stack:** Next.js 14 · Prisma · PostgreSQL · Clerk · Framer Motion · Recharts · Zod
 
 ---
 
-### 💰 BudgetBuddy  
-🔗 Repo: https://github.com/Tanmay2006-Tech/BudgetBuddy  
-🔗 Live: https://budget-buddy-lilac-alpha.vercel.app  
+### 🕵️ NullTrace
 
-- Expense & budget tracking web app  
-- Built using **JavaScript, HTML, CSS**  
-- Focused on **clean UI & usability**  
+🔗 Repo: https://github.com/Tanmay2006-Tech/NullTrace-Final
+🌐 Live: https://null-trace-final-nulltrace.vercel.app
 
----
-
-### 🤖 TacMind-AI  
-🔗 Repo: https://github.com/Tanmay2006-Tech/TacMind-AI  
-🔗 Live: https://tac-mind-ai.vercel.app/  
-
-- AI-powered Tic Tac Toe game  
-- Intelligent move logic implementation  
-- Supports **single-player & multiplayer**  
+* Full-stack AI DevOps observability platform — real-time war room for infrastructure monitoring
+* AI root cause analysis engine with confidence scores & auto-generated kubectl remediation commands
+* Live incident feed, service health heatmap, searchable log stream & plain-English AI chat assistant
+* Contract-first API design with OpenAPI 3.0 + Orval codegen keeping client & server perfectly in sync
+* **Stack:** React 19 · Express 5 · PostgreSQL · Drizzle ORM · TypeScript · Tailwind v4
 
 ---
 
-### 🎬 Cine-Pulse  
-🔗 Repo: https://github.com/Tanmay2006-Tech/cine-pulse  
-🔗 Live: https://cine-pulse-delta.vercel.app/  
+### 🔍 RepoScan
 
-- Movie web app built with **TypeScript**  
-- Modular & scalable architecture  
-- Focus on **code quality & structure**  
+🔗 Repo: https://github.com/Tanmay2006-Tech/RepoScan
+🌐 Live: https://repo-scan-kappa.vercel.app
+
+* Full-stack GitHub repository analysis tool with a clean developer-focused UI
+* Scans and surfaces repo insights with fast, structured data presentation
+* **Stack:** React · TypeScript · Node.js · Tailwind CSS
+
+---
+
+### 🏥 Upchaar
+
+🔗 Repo: https://github.com/Tanmay2006-Tech/Upchaar
+🌐 Live: https://upchaar-nine.vercel.app
+
+* Healthcare web platform designed for better patient accessibility & user experience
+* Built with modern TypeScript frontend practices and a focus on clean, intuitive UI
+* **Stack:** TypeScript · React · Tailwind CSS
+
+---
+
+### 🧪 RetainIQ
+
+🔗 Repo: https://github.com/Tanmay2006-Tech/RetainIQ
+
+* Python AI/ML project exploring intelligent retention and data-driven decision making
+* Hands-on implementation of ML concepts with clean, structured code
+* **Stack:** Python
+
+---
+
+### ⚡ EchoForge-AI
+
+🔗 Repo: https://github.com/Tanmay2006-Tech/EchoForge-AI
+
+* AI-powered generative platform built in JavaScript
+* Focused on intelligent content generation and AI-driven output workflows
+* **Stack:** JavaScript · Node.js
 
 ---
 
