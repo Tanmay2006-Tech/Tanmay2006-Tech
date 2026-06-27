@@ -10,122 +10,150 @@
 🚀 Building real-world projects & improving every day
 </p>
 
----
-
-## 👨‍💻 About Me  
-
-- 🎓 Computer Science Engineering student  
-- 💡 Interested in **AI/ML, Web Development & Core CS**  
-- 🧠 Strong fundamentals in **DSA, OS, DBMS**  
-- 🛠 Love building **practical & scalable projects**  
-- 🚀 Focused on **clean code, consistency & growth**  
-
----
-
-## 🛠 Tech Stack  
-
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `TypeScript`  
-
-**Frontend:**  
-`HTML` `CSS` `React`  
-
-**Backend & Tools:**  
-`Node.js` `Git` `GitHub` `Vercel`  
-
-**Core CS:**  
-`DSA` `OS` `DBMS`  
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmay-tripathi-3a3139234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TanmayTripathi7525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
+
+* 🎓 Computer Science Engineering student at Central University of Jammu
+* 💡 Interested in **AI/ML, Full-Stack Development & Core CS**
+* 🧠 Strong fundamentals in **DSA, OS, DBMS**
+* 🚀 Passionate about building scalable and impactful products
+* 🌱 Currently exploring **Machine Learning and System Design**
+* ⚡ Believe in: **Build consistently. Improve continuously.**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+### Backend & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🧠 Cognify
 
-🔗 Repo: https://github.com/Tanmay2006-Tech/Cognify
-🌐 Live: https://cognify-liart-five.vercel.app
+🔗 https://github.com/Tanmay2006-Tech/Cognify
 
-* Production-grade AI SaaS that turns student marks into explainable performance forecasts with confidence scores
-* Built a custom prediction engine with trend fitting, what-if simulator & factor-level explainability
-* Features a personalized weekly study planner, gamification system (XP, streaks, badges) & voice-enabled AI coach
-* Role-based mentor workspace with multi-format report exports (JSON, CSV, PDF)
-* **Stack:** Next.js 14 · Prisma · PostgreSQL · Clerk · Framer Motion · Recharts · Zod
+* Production-grade AI SaaS platform for student performance prediction
+* Explainable forecasts with confidence scores
+* AI Coach, Study Planner, Gamification & Mentor Dashboard
+
+**Tech:** Next.js 14 · Prisma · PostgreSQL · Clerk · TypeScript
 
 ---
 
 ### 🕵️ NullTrace
 
-🔗 Repo: https://github.com/Tanmay2006-Tech/NullTrace-Final
-🌐 Live: https://null-trace-final-nulltrace.vercel.app
+🔗 https://github.com/Tanmay2006-Tech/NullTrace-Final
 
-* Full-stack AI DevOps observability platform — real-time war room for infrastructure monitoring
-* AI root cause analysis engine with confidence scores & auto-generated kubectl remediation commands
-* Live incident feed, service health heatmap, searchable log stream & plain-English AI chat assistant
-* Contract-first API design with OpenAPI 3.0 + Orval codegen keeping client & server perfectly in sync
-* **Stack:** React 19 · Express 5 · PostgreSQL · Drizzle ORM · TypeScript · Tailwind v4
+* AI-powered DevOps observability platform
+* Real-time monitoring, RCA engine & AI assistant
+* Service health dashboard and incident management
+
+**Tech:** React 19 · Express · PostgreSQL · Drizzle ORM
 
 ---
 
 ### 🔍 RepoScan
 
-🔗 Repo: https://github.com/Tanmay2006-Tech/RepoScan
-🌐 Live: https://repo-scan-kappa.vercel.app
+🔗 https://github.com/Tanmay2006-Tech/RepoScan
 
-* Full-stack GitHub repository analysis tool with a clean developer-focused UI
-* Scans and surfaces repo insights with fast, structured data presentation
-* **Stack:** React · TypeScript · Node.js · Tailwind CSS
+* Full-stack GitHub repository analysis platform
+* Provides structured repository insights and analytics
+
+**Tech:** React · TypeScript · Node.js
 
 ---
 
 ### 🏥 Upchaar
 
-🔗 Repo: https://github.com/Tanmay2006-Tech/Upchaar
-🌐 Live: https://upchaar-nine.vercel.app
+🔗 https://github.com/Tanmay2006-Tech/Upchaar
 
-* Healthcare web platform designed for better patient accessibility & user experience
-* Built with modern TypeScript frontend practices and a focus on clean, intuitive UI
-* **Stack:** TypeScript · React · Tailwind CSS
+* Healthcare platform improving accessibility and patient experience
 
----
-
-### 🧪 RetainIQ
-
-🔗 Repo: https://github.com/Tanmay2006-Tech/RetainIQ
-
-* Python AI/ML project exploring intelligent retention and data-driven decision making
-* Hands-on implementation of ML concepts with clean, structured code
-* **Stack:** Python
+**Tech:** React · TypeScript · Tailwind CSS
 
 ---
 
-### ⚡ EchoForge-AI
-
-🔗 Repo: https://github.com/Tanmay2006-Tech/EchoForge-AI 
-🌐https://echo-forge-ai.vercel.app
-
-* AI-powered generative platform built in JavaScript
-* Focused on intelligent content generation and AI-driven output workflows
-* **Stack:** JavaScript · Node.js
-
----
-
-## 📊 Current Focus  
-
-- 🔥 Improving **Data Structures & Algorithms**  
-- ⚡ Building **full-stack projects**  
-- 🤖 Exploring **Machine Learning concepts**  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tanmay-tripathi-3a3139234/ 
-- 📧 Email: TanmayTripathi7525@gmail.com
-
----
-
-## ✨ Quote  
+## 📊 GitHub Analytics
 
 <p align="center">
-<i>Build consistently. Improve continuously. 🚀</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay2006-Tech&theme=github_dark" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmay2006-Tech&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanmay2006-Tech&theme=github_dark&utcOffset=5.5" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanmay2006-Tech&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanmay2006-Tech&theme=github_dark" width="48%"/>
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay2006-Tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay2006-Tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay2006-Tech&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay2006-Tech&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tanmay-tripathi-3a3139234/
+* 📧 Email: [TanmayTripathi7525@gmail.com](mailto:TanmayTripathi7525@gmail.com)
+
+---
+
+<h3 align="center">✨ "Build consistently. Improve continuously." 🚀</h3>
