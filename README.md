@@ -1,23 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/github-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/github-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/github-snake.svg">
-</picture>
-
-</div>
-
 <h1 align="center">Hi 👋, I'm Tanmay Tripathi</h1>
 
 <p align="center">
@@ -155,6 +135,24 @@ https://www.linkedin.com/in/tanmay-tripathi-3a3139234/
 
 📧 Email:
 TanmayTripathi7525@gmail.com
+
+---
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/snake-light.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Tanmay2006-Tech/Tanmay2006-Tech/output/snake-dark.svg">
+</picture>
+
+</div>
 
 ---
 
